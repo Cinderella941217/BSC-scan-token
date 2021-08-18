@@ -8,6 +8,7 @@
 // }
 var config = {
     "apiKey": "2BYH7ZQ2CHB3MA5GFPEPI12FQV9AD3UEJN",
-    "keyword": "Pocket Doge"
+    "keyword": "Pocket Doge",
+    "maxHolders": 100
 }
 exports.config = config;
