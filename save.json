@@ -1,0 +1,26 @@
+[
+	{
+		"address": "0x89b9e1025e0546757e8525b551387a5ab17542fa",
+		"contract_type": "Token",
+		"token_name": "AxieBaby",
+		"transfers": 355,
+		"create_date": "2021-07-23",
+		"verified": true,
+		"contract_name": "AxieBaby",
+		"compiler_version": "v0.7.6",
+		"total_supply": 100000000000,
+		"holders": 30
+	},
+	{
+		"address": "0x49a15c6c56843093f366d6c7b720539f36f9e1e6",
+		"contract_type": "Token",
+		"token_name": "BABY AXIE",
+		"transfers": 1,
+		"create_date": "2021-07-28",
+		"verified": true,
+		"contract_name": "BABYAXIE",
+		"compiler_version": "v0.6.2",
+		"total_supply": 100000000000,
+		"holders": 1
+	}
+]
